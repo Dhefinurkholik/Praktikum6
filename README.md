@@ -220,3 +220,5 @@ Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita ak
 ### Cari Data
 
 ![gambar4](https://user-images.githubusercontent.com/115616418/204240088-a1461434-e150-40ff-9607-bf30f36339a7.png)
+
+### Selesai
